@@ -1,0 +1,48 @@
+html, body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+    word-spacing: 10%;
+    letter-spacing: .5em;
+    line-height: 2em;
+    background-color: lemonchiffon;
+    
+}
+
+#impact{
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#image1 img{
+    padding: 5%;
+    border: 3px dotted pink;
+    background-image: url("../media/flowers.jpeg");
+}
+
+#image2 img{
+    padding: 2%;
+    border: 4px dotted paleturquoise;
+}
+
+#image3 img{
+    padding: 6%;
+    border: 5px dotted palegoldenrod;
+    background-image: url("../media/feddy.jpg");
+}
+
+#image4 img{
+    padding: 3%;
+    border: 6px dotted palegreen;
+}
+
+#image5 img{
+    padding: 6%;
+    border: 5px dotted powderblue;
+    background-image: url("../media/clouds.jpeg");
+}
+
+img{
+    padding: 5%;
+    border: 3px dotted pink;
+}
